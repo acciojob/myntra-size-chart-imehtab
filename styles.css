@@ -25,6 +25,4 @@ td:first-child{
 tr:nth-child(2n+2){
 	background: #C1C1C1;
 }
-tr:last-child{
-	background: gold;
-}
+
